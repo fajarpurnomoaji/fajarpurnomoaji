@@ -1,6 +1,6 @@
 ## 👋 Hello World
 
-![Fajarpurnomoaji's GitHub stats](https://github-readme-stats.vercel.app/api?username=fajarpurnomoaji&show_icons=true&theme=radical)
+![Fajarpurnomoaji's GitHub stats](https://github-readme-stats.vercel.app/api?username=fajarpurnomoaji&show_icons=true&theme=synthwave)
 <!--
 **fajarpurnomoaji/fajarpurnomoaji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
